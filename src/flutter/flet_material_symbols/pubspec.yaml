@@ -14,8 +14,7 @@ dependencies:
   collection: ^1.16.0
   material_symbols_icons: ^4.2906.0
 
-  flet:
-    path: ../../../../../../../packages/flet
+  flet: 0.82.0
 
 dev_dependencies:
   flutter_test:
