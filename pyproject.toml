@@ -17,7 +17,7 @@ Repository = "https://github.com/Creeper19472/flet-material-symbols"
 Issues = "https://github.com/Creeper19472/flet-material-symbols/issues"
 
 [tool.setuptools.package-data]
-"flet-material-symbols" = ["*.json"]
+"flet_material_symbols" = ["*.json"]
 "flutter.flet_material_symbols" = [
     "pubspec.yaml",
     "lib/**",
