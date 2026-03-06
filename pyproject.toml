@@ -5,16 +5,16 @@ description = "Material Symbols icons for Flet apps."
 readme = "README.md"
 authors = [{ name = "Creeper19472", email = "creeper19472@crpteam.club" }]
 license = "Apache-2.0"
-requires-python = ">=3.10"
+requires-python = ">=3.12"
 dependencies = [
     "flet",
 ]
 
 [project.urls]
-Homepage = "https://flet.dev"
-Documentation = "https://docs.flet.dev/material-symbols"
-Repository = "https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-material-symbols"
-Issues = "https://github.com/flet-dev/flet/issues"
+Homepage = "https://github.com/Creeper19472/flet-material-symbols"
+Documentation = "https://github.com/Creeper19472/flet-material-symbols"
+Repository = "https://github.com/Creeper19472/flet-material-symbols"
+Issues = "https://github.com/Creeper19472/flet-material-symbols/issues"
 
 [tool.setuptools.package-data]
 "flutter.flet_material_symbols" = [
