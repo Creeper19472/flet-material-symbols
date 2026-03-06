@@ -1,3 +1,4 @@
+import 'package:flutter/widgets.dart';
 import 'package:material_symbols_icons/symbols.dart';
 
 List<IconData> symbolsIcons = [
